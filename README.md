@@ -1,8 +1,5 @@
 # PIZZA
 
-Pizza Sales Analysis:
-This Pizza Sales Analysis Project featuring a dynamic Power BI dashboard that breathes life into the realm of pizza sales data. Our interactive dashboard empowers users to explore, gain insights, and drive data-driven decisions based on essential performance metrics. Fueling this analysis is the formidable combination of Power Query and DAX Query, meticulously dissecting the data to craft precise measures and captivating visualizations.
-
 Tools Used
 SQL Server Management Studio
 SQL
